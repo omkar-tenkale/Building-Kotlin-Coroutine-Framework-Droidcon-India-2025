@@ -7,6 +7,14 @@ https://omkar-tenkale.github.io/Building-Kotlin-Coroutine-Framework-Droidcon-Ind
 ### Line by line execution of a coroutine
 https://medium.com/kotlin-academy/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4
 
+### Coroutine Articles 
+Kt Academy Coroutines Series
+https://kt.academy/article
+
+Official Kotlin KEEP proposal
+https://github.com/Kotlin/KEEP/blob/main/proposals/KEEP-0164-coroutines.md
+
+
 ### Books
 Kotlin Coroutines: Deep Dive by Marcin Moskała
 https://kt.academy/book/coroutines
